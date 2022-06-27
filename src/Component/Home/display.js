@@ -5,7 +5,7 @@ import Products from './products'
 
 
 // const url = "https://zapiii.herokuapp.com/quicksearch"
-const url = "http://localhost:9705/home"
+const url = "https://shozon.herokuapp.com/home"
 class Display extends Component{
     constructor(){
         super()

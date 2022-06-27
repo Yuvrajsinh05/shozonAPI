@@ -6,7 +6,7 @@ import Header from "../../header";
 import './style.css'
 import Footer from "../../footer";
 
-const url =  "http://localhost:9705/product/category_id="
+const url =  "https://shozon.herokuapp.com/product/category_id="
 
 class Listing extends Component{
     constructor(props){
